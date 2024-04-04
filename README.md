@@ -6,8 +6,9 @@
   
 ### Описание репозитория:
 - *scripts* - код заданий
-  * ... -
-  * .... -
+  * data_preprocessing.ipynb - HW 1 и HW 2
+  * data_analysis.ipynb - HW 3 и HW 4
+  * clustering&regression.ipynb - HW 5 и HW 6
 - *datasets* - исходные и преобразованные данные
 
 ## ___Описание:___ 
